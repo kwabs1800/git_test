@@ -1,2 +1,4 @@
 i am adding a couple lines of text
 trial one for learning staging and committing
+
+a few more lines just to be sure
